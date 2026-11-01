@@ -1,5 +1,3 @@
-# FINM3422 Exotic Derivatives Trading Desk Analysis
-
 ## Project Overview
 
 This project implements an object-oriented option pricing and portfolio management system for four complex Over-the-Counter (OTC) derivative trades for a Sydney-based investment bank's Exotic Derivatives Trading Desk. The system employs industry-standard valuation methodologies and provides comprehensive risk management capabilities.
